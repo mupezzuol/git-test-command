@@ -1,0 +1,10 @@
+# Adiciona pastas/arquivos para serem ignorador pelo GIT, ou seja, não serem controlados, portanto não irão pro repositorio
+
+# para arquivo somente o nome
+# para pasta colocar como "pasta/"
+
+
+# Configs do projeto
+index-config-ide.config
+
+
